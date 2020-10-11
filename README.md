@@ -1,5 +1,5 @@
 # Compiling OS	Ubuntu 18.04 LTS
-Source branch	0.17
+Source 	0.12.2.3
 Algorithm	SHA-256
 Block type	Proof-of-Work
 # Coin name	LitBia
